@@ -8,6 +8,12 @@ Rich_TextArea is a contenteditable TEXTAREA replacement widget featuring extenda
 This is the first public release and is thus version alpha 1.
 
 
+## Difference to original Rich_TextArea repository:
+
+- includee dependencies libs for a fast start
+- chrome newline bugfix
+
+
 ## Screenshot
 
 ![Screenshot](http://a-software-guy.com/demos/rich_textarea/images/rich_textarea_screenshot.png)
